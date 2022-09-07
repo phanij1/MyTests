@@ -1,0 +1,5 @@
+[INFO ] 2022-03-24 03:10:49.741 [main] Tests - This info log
+4[DEBUG] 2022-03-24 03:10:49.744 [main] Tests - This info log
+4[ERROR] 2022-03-24 03:10:49.745 [main] Tests - This info log
+4[FATAL] 2022-03-24 03:10:49.745 [main] Tests - This info log
+4
