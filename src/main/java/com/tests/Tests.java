@@ -27,11 +27,12 @@ public class Tests {
 //        factorialofGivenNumber(5);
 //        secondLagestNumberInTheArray();
 //        dateInSpecifiFormat();
-        characterCountInString("aabbadccde");
+        characterCountInString2("aabbadccde");
+
 
 
     }
-    public static void characterCountInString(String str){
+    public static void characterCountInString2(String str){
         char[] charArray = str.toCharArray();
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
         for (char c:charArray){
