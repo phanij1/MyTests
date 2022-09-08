@@ -27,7 +27,7 @@ public class Tests {
 //        factorialofGivenNumber(5);
 //        secondLagestNumberInTheArray();
 //        dateInSpecifiFormat();
-//        characterCountInString("aabbadccde");
+        characterCountInString("aabbadccde");
 
 
     }
