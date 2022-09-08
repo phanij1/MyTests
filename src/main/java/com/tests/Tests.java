@@ -30,6 +30,7 @@ public class Tests {
         characterCountInString2("aabbadccde");
 
 
+
     }
     public static void characterCountInString2(String str){
         char[] charArray = str.toCharArray();
